@@ -1,0 +1,11 @@
+annas-archive-ia-2023-06-files.csv.gz.torrent
+annas-archive-ia-2023-06-metadata-json.tar.gz.torrent
+annas-archive-ia-2023-06-metadata-json.txt.gz.torrent
+annas-archive-ia-2023-06-metadata-xml.tar.gz.torrent
+annas-archive-ia-2023-06-metadata-xml.txt.gz.torrent
+annas-archive-ia-2023-06-thumbs.tar.torrent
+annas-archive-ia-2023-06-thumbs.txt.gz.torrent
+annas-archive-ia-acsm-a.tar.torrent
+annas-archive-ia-acsm-b.tar.torrent
+annas-archive-ia-acsm-c.tar.torrent
+annas-archive-ia-acsm-d.tar.torrent
